@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"app",
+				"appointment_date"
+			],
+			[
+				"my",
+				"mysqli_fetch_array"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"g",
+				"gender"
+			],
+			[
+				"s",
+				"surname"
+			],
+			[
+				"empt",
+				"empty()"
+			],
+			[
+				"_",
+				"$_POST\tPOST['…']"
+			],
+			[
+				"iss",
+				"isset()"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"mys",
+				"mysqli_fetch_array"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"col",
+				"col-md-10"
+			],
+			[
+				"c",
+				"col-md-2"
+			],
+			[
+				"em",
+				"empty()"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"mysq",
+				"mysqli_num_rows"
+			],
+			[
+				"col-",
+				"col-md-6"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"a",
+				"autocomplete"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch_array"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"col-md-2"
+			],
+			[
+				"coun",
+				"count()"
+			],
+			[
+				"emp",
+				"empty()"
+			],
+			[
+				"isse",
+				"isset()"
+			],
+			[
+				"count",
+				"count()"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"ex",
+				"exec()"
+			],
+			[
+				"arr",
+				"array()"
+			],
+			[
+				"heade",
+				"header()"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"b",
+				"background-repeat"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"_S",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"head",
+				"header()"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"ar",
+				"array()"
+			],
+			[
+				"session_",
+				"session_start()"
+			],
+			[
+				"ses",
+				"session_start()"
+			],
+			[
+				"sess",
+				"session_start()"
+			],
+			[
+				"sessio",
+				"session_start()"
+			],
+			[
+				"cou",
+				"count()"
+			],
+			[
+				"els",
+				"elseif\telseif …"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"tar",
+				"target_file"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fa-",
+				"fa-solid"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"unse",
+				"unset()"
+			],
+			[
+				"session",
+				"session_start()"
+			],
+			[
+				"ini_",
+				"ini_set"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"pass",
+				"password"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/hms project/doctorlogin.php",
+		"/C/wamp64/www/hms project/admin/index.php",
+		"/C/wamp64/www/hms project/doctor/appointment.php",
+		"/C/wamp64/www/hms project/doctor/discharge.php",
+		"/C/Users/laksh/Downloads/JOBID-Lakshay-Maheshwari.docx",
+		"/C/Users/laksh/OneDrive/Desktop/pkkkk.pkt",
+		"/C/wamp64/www/hms project/doctor/basicofc++.cpp",
+		"/C/wamp64/www/hms project/doctor/c++basic",
+		"/C/wamp64/www/hms project/admin/edit.php",
+		"/C/wamp64/www/hms project/admin/patient.php",
+		"/C/wamp64/www/hms project/doctor/patient.php",
+		"/C/wamp64/www/hms project/doctor/index.php",
+		"/C/wamp64/www/hms project/header.php",
+		"/C/wamp64/www/hms project/connection.php",
+		"/C/wamp64/www/hms project/doctor/view.php",
+		"/C/wamp64/www/hms project/patient/appointment.php",
+		"/C/wamp64/www/hms project/patient/index.php",
+		"/C/wamp64/www/hms project/admin/report.php",
+		"/C/wamp64/www/hms project/admin/income.php",
+		"/C/wamp64/www/hms project/patient/profile.php",
+		"/C/wamp64/www/hms project/admin/view.php",
+		"/C/wamp64/www/hms project/doctor/profile.php",
+		"/C/wamp64/www/hms project/patient/sidenav.php",
+		"/C/wamp64/www/hms project/patient/logout.php",
+		"/C/wamp64/www/hms project/doctor/logout.php",
+		"/C/wamp64/www/hms project/doctor/sidenav.php",
+		"/C/wamp64/www/hms project/patientlogin.php",
+		"/C/wamp64/www/hms project/index.php",
+		"/C/wamp64/www/hms project/apply.php",
+		"/C/wamp64/www/hms project/account.php",
+		"/C/wamp64/www/hms project/admin/doctor.php",
+		"/C/wamp64/www/hms project/adminLogin.php",
+		"/C/wamp64/www/hms project/admin/sidenav.php",
+		"/C/wamp64/www/hms project/admin/profile.php",
+		"/C/wamp64/www/hms project/admin/job_request.php",
+		"/C/wamp64/www/hms project/admin/ajax_reject.php",
+		"/C/wamp64/www/hms project/admin/ajax_approve.php",
+		"/C/wamp64/www/hms project/admin/admin.php",
+		"/C/wamp64/www/hms project/admin/ajax_job_request.php",
+		"/C/wamp64/www/hms project/admin/doctorlogin.php",
+		"/C/wamp64/www/hms project/admin/logout.php",
+		"/C/wamp64/www/hms project/dashboard.php"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "doctorlogin.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
